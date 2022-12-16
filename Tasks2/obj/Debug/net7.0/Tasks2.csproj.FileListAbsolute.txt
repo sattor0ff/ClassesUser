@@ -1,0 +1,15 @@
+D:\CSharpPractices\ClassesUser16.12\Tasks2\bin\Debug\net7.0\Tasks2.exe
+D:\CSharpPractices\ClassesUser16.12\Tasks2\bin\Debug\net7.0\Tasks2.deps.json
+D:\CSharpPractices\ClassesUser16.12\Tasks2\bin\Debug\net7.0\Tasks2.runtimeconfig.json
+D:\CSharpPractices\ClassesUser16.12\Tasks2\bin\Debug\net7.0\Tasks2.dll
+D:\CSharpPractices\ClassesUser16.12\Tasks2\bin\Debug\net7.0\Tasks2.pdb
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\Tasks2.csproj.AssemblyReference.cache
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\Tasks2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\Tasks2.AssemblyInfoInputs.cache
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\Tasks2.AssemblyInfo.cs
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\Tasks2.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\Tasks2.dll
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\refint\Tasks2.dll
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\Tasks2.pdb
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\Tasks2.genruntimeconfig.cache
+D:\CSharpPractices\ClassesUser16.12\Tasks2\obj\Debug\net7.0\ref\Tasks2.dll
